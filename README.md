@@ -36,6 +36,6 @@
 <ul>5. pip install scrapy</ul>
  
 
-<h2><strong>Components:</strong></h2>
-<ul>Scraper engine installed via:<a href="https://scrapy.org/">Scrapy</a> </ul>
-<ul>Data crunching via:<a href="http://jupyter.org/">Jupyter</a> </ul>
+<h2><strong>Program Components:</strong></h2>
+<ul>Scraper engine installed via:<a href="https://scrapy.org/"> Scrapy</a> </ul>
+<ul>Data crunching via:<a href="http://jupyter.org/"> Jupyter</a> </ul>
