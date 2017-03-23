@@ -1,5 +1,5 @@
 <h2><strong>Goal:</strong></h2> 
-<ul> Analayze ios vs. Android selling prices and total apps "just sold" on <a target="_blank" href="https://flippa.com/apps/just-sold"> flippa.com </a>.</ul>
+<ul> Analayze ios vs. Android selling prices and total apps "just sold" on <a  href="https://flippa.com/apps/just-sold" target="_blank"> flippa.com </a>.</ul>
   
   
 <h2><strong>Results:</strong></h2> 
