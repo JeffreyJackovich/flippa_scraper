@@ -3,26 +3,30 @@
   
   
 <h2><strong>Results:</strong></h2> 
+<ul>Overall, 121 more android sold than ios, however, the average ios apps sold for ~50% more ($513.00 vs $254.98) and most expensive ios sold for $25000.00 vs android's $15001.00. </ul>
+<br>
+<br>
+<ul>Raw Data:</ul>
 <ul><strong>iOS</strong></ul>
-<ul>   count --> 627</ul>
-<ul>       mean --> $513.00</ul>
-<ul>       std -->  $1536.00</ul>
-<ul>       min -->  $11.00</ul>
-<ul>       25% -->  $79.00</ul>
-<ul>       50% -->  $165.00</ul>
-<ul>       75% -->  $320.00</ul>
-<ul>       max -->  $25000.00</ul>
+<ul> count --> 627</ul>
+<ul> mean --> $513.00</ul>
+<ul> std -->  $1536.00</ul>
+<ul> min -->  $11.00</ul>
+<ul> 25% -->  $79.00</ul>
+<ul> 50% -->  $165.00</ul>
+<ul> 75% -->  $320.00</ul>
+<ul> max -->  $25000.00</ul>
   </ul>
   <br>
-  <ul>Android</ul>
-<ul>   count--> 748</ul>
-<ul>       mean-->  $254.98</ul>
-<ul>       std -->  $928.42</ul>
-<ul>       min -->  $1.00</ul>
-<ul>       25% -->  $45.00</ul>
-<ul>       50% -->  $75.00</ul>
-<ul>       75% -->  $150.00</ul>
-<ul>       max -->  $15001.00</ul>
+  <ul><strong>Android</strong></ul>
+<ul> count--> 748</ul>
+<ul> mean-->  $254.98</ul>
+<ul> std -->  $928.42</ul>
+<ul> min -->  $1.00</ul>
+<ul> 25% -->  $45.00</ul>
+<ul> 50% -->  $75.00</ul>
+<ul> 75% -->  $150.00</ul>
+<ul> max -->  $15001.00</ul>
   </ul>
  
  
