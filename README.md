@@ -30,7 +30,7 @@
   </ul>
  
  
-<h2><strong>File Setup:</strong></h2> 
+<h2><strong>Scrapy Setup:</strong></h2> 
 <ul>1. mkdir ~/scrapers/flippa_scraper</ul>
 <ul>2. cd ~/scrapers/flippa_scraper</ul>
 <ul>3. virtualenv env</ul>
@@ -38,6 +38,6 @@
 <ul>5. pip install scrapy</ul>
  
 
-<h2><strong>Program Components:</strong></h2>
+<h2><strong>Project Components:</strong></h2>
 <ul>Scraper engine installed via:<a target="_blank" href="https://scrapy.org/"> Scrapy</a> </ul>
 <ul>Data crunching via:<a target="_blank" href="http://jupyter.org/"> Jupyter</a> </ul>
