@@ -6,7 +6,7 @@
 <ul>Overall, 121 more android apps were sold than ios, however, the average iOS app sold for ~50% more ($513.00 vs $254.98), and the most expensive iOS sold for $25,000.00 vs. android's $15,001.00. Additional unanswered questions:  How many androioid vs. iOS apps were listed, but went unsold, the average unique users per app, and the respective developer-hours required to build the apps.</ul>
 <br>
 <br>
-<ul>Raw Data:</ul>
+<ul>Raw mobile application, "Just Sold" data:</ul>
 <ul><strong>iOS</strong></ul>
 <ul> count --> 627</ul>
 <ul> mean --> $513.00</ul>
