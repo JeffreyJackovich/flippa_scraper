@@ -1,5 +1,5 @@
 <h2><strong>Goal:</strong></h2> 
-<ul> To analayze iOS vs. Android selling prices by scraping, "just sold" data from<a href="https://flippa.com/apps/just-sold" target="_blank"> flippa.com </a>.</ul>
+<ul> To analayze iOS vs. Android selling prices by scraping, "just sold" data from<a href="https://flippa.com/apps/just-sold" target="_blank">flippa.com</a> (an online marketplace to buy/sell: apps, websites, and domains).</ul>
   
   
 <h2><strong>Results:</strong></h2> 
