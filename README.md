@@ -10,12 +10,12 @@
 <ul><strong>iOS</strong></ul>
 <ul> count --> 627</ul>
 <ul> mean --> $513.00</ul>
-<ul> std -->  $1536.00</ul>
+<ul> std -->  $1,536.00</ul>
 <ul> min -->  $11.00</ul>
 <ul> 25% -->  $79.00</ul>
 <ul> 50% -->  $165.00</ul>
 <ul> 75% -->  $320.00</ul>
-<ul> max -->  $25000.00</ul>
+<ul> max -->  $25,000.00</ul>
   </ul>
   <br>
   <ul><strong>Android</strong></ul>
@@ -26,7 +26,7 @@
 <ul> 25% -->  $45.00</ul>
 <ul> 50% -->  $75.00</ul>
 <ul> 75% -->  $150.00</ul>
-<ul> max -->  $15001.00</ul>
+<ul> max -->  $15,001.00</ul>
   </ul>
  
  
