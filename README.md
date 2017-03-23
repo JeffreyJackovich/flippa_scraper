@@ -1,5 +1,5 @@
 <h2><strong>Goal:</strong></h2> 
-<ul> Analayze ios vs. Android selling prices and total apps "just sold" on <a href="https://flippa.com/apps/just-sold"> flippa.com </a>.</ul>
+<ul> Analayze ios vs. Android selling prices and total apps "just sold" on <a target="_blank" href="https://flippa.com/apps/just-sold"> flippa.com </a>.</ul>
   
   
 <h2><strong>Results:</strong></h2> 
@@ -39,5 +39,5 @@
  
 
 <h2><strong>Program Components:</strong></h2>
-<ul>Scraper engine installed via:<a href="https://scrapy.org/"> Scrapy</a> </ul>
-<ul>Data crunching via:<a href="http://jupyter.org/"> Jupyter</a> </ul>
+<ul>Scraper engine installed via:<a target="_blank" href="https://scrapy.org/"> Scrapy</a> </ul>
+<ul>Data crunching via:<a target="_blank" href="http://jupyter.org/"> Jupyter</a> </ul>
