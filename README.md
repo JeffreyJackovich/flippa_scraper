@@ -6,30 +6,50 @@
 <ul>Overall, 121 more android apps were sold than ios, however, the average iOS app sold for ~50% more ($513.00 vs $254.98), and the most expensive iOS sold for $25,000.00 vs. android's $15,001.00. Additional unanswered questions:  How many androioid vs. iOS apps were listed, but went unsold, the average unique users per app, and the respective developer-hours required to build the apps.</ul>
 <br>
 <br>
-<ul>Raw mobile application, "Just Sold" data:</ul>
-<ul><strong>iOS</strong></ul>
-<ul> count --> 627</ul>
-<ul> mean --> $513.00</ul>
-<ul> std -->  $1,536.00</ul>
-<ul> min -->  $11.00</ul>
-<ul> 25% -->  $79.00</ul>
-<ul> 50% -->  $165.00</ul>
-<ul> 75% -->  $320.00</ul>
-<ul> max -->  $25,000.00</ul>
-  </ul>
-  <br>
-  <ul><strong>Android</strong></ul>
-<ul> count--> 748</ul>
-<ul> mean-->  $254.98</ul>
-<ul> std -->  $928.42</ul>
-<ul> min -->  $1.00</ul>
-<ul> 25% -->  $45.00</ul>
-<ul> 50% -->  $75.00</ul>
-<ul> 75% -->  $150.00</ul>
-<ul> max -->  $15,001.00</ul>
-  </ul>
- 
- 
+
+<h2><strong>Raw mobile application, "Just Sold" data (*as of 25/03/2017):</strong></h2>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;border-color:#aaa;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#aaa;color:#333;background-color:#fff;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#aaa;color:#fff;background-color:#f38630;}
+.tg .tg-yw4l{vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-yw4l">App Brand</th>
+    <th class="tg-yw4l">count</th>
+    <th class="tg-yw4l">mean</th>
+    <th class="tg-yw4l">std</th>
+    <th class="tg-yw4l">min</th>
+    <th class="tg-yw4l">25%</th>
+    <th class="tg-yw4l">50%</th>
+    <th class="tg-yw4l">75%</th>
+    <th class="tg-yw4l">max</th>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">iOS</td>
+    <td class="tg-yw4l">627</td>
+    <th class="tg-yw4l">$513.00</th>
+    <th class="tg-yw4l">$1,536.00</th>
+    <th class="tg-yw4l">$11.00</th>
+    <th class="tg-yw4l">$79.00</th>
+    <th class="tg-yw4l">$165.00</th>
+    <th class="tg-yw4l">$320.00</th>
+    <th class="tg-yw4l">$25,000.00</th>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Android</td>
+    <td class="tg-yw4l">748</td>
+    <td class="tg-yw4l">$254.98</td>
+    <td class="tg-yw4l">$928.42</td>
+    <td class="tg-yw4l">$1.00</td>
+    <td class="tg-yw4l">$45.00</td>
+    <td class="tg-yw4l">$75.00</td>
+    <td class="tg-yw4l">$150.00</td>
+    <td class="tg-yw4l">$15,001.00</td>
+  </tr>
+</table>
+
 <h2><strong>Scrapy Setup:</strong></h2> 
 <ul>1. mkdir ~/scrapers/flippa_scraper</ul>
 <ul>2. cd ~/scrapers/flippa_scraper</ul>
