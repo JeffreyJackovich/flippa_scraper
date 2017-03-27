@@ -8,51 +8,8 @@
 <br>
 
 <h2><strong>"Just Sold" data (*as of 25/03/2017):</strong></h2>
-<table>
-  <tr>
-  <strong>
-    <th >App Brand</th>
-    <th >count</th>
-    <th >mean</th>
-    <th >std</th>
-    <th >min</th>
-    <th class="tg-yw4l">25%</th>
-    <th class="tg-yw4l">50%</th>
-    <th class="tg-yw4l">75%</th>
-    <th class="tg-yw4l">max</th>
-    </strong>
-  </tr>
-  <tr>
-    <td >iOS</td>
-    <td >627</td>
-    <th class="tg-yw4l">$513.00</th>
-    <th class="tg-yw4l">$1,536.00</th>
-    <th class="tg-yw4l">$11.00</th>
-    <th class="tg-yw4l">$79.00</th>
-    <th class="tg-yw4l">$165.00</th>
-    <th class="tg-yw4l">$320.00</th>
-    <th class="tg-yw4l">$25,000.00</th>
-  </tr>
-  <tr>
-    <td class="tg-yw4l">Android</td>
-    <td class="tg-yw4l">748</td>
-    <td class="tg-yw4l">$254.98</td>
-    <td class="tg-yw4l">$928.42</td>
-    <td class="tg-yw4l">$1.00</td>
-    <td class="tg-yw4l">$45.00</td>
-    <td class="tg-yw4l">$75.00</td>
-    <td class="tg-yw4l">$150.00</td>
-    <td class="tg-yw4l">$15,001.00</td>
-  </tr>
-</table>
-
-
-
-
-
 <table class="tg">
   <tr>
-  <strong>
     <th class="tg-yw4l">App Brand</th>
     <th class="tg-yw4l">count</th>
     <th class="tg-yw4l">mean</th>
@@ -62,7 +19,6 @@
     <th class="tg-yw4l">50%</th>
     <th class="tg-yw4l">75%</th>
     <th class="tg-yw4l">max</th>
-    </strong>
   </tr>
   <tr>
     <td class="tg-yw4l">iOS</td>
