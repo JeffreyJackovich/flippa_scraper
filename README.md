@@ -8,7 +8,7 @@
 <h2><strong>"Just Sold" Price Data (*as of 25/03/2017):</strong></h2>
 <table class="tg">
   <tr>
-    <th class="tg-yw4l">App Brand</th>
+    <th class="tg-yw4l">mobile operating systems</th>
     <th class="tg-yw4l">count</th>
     <th class="tg-yw4l">mean</th>
     <th class="tg-yw4l">std</th>
