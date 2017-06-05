@@ -1,9 +1,9 @@
 <h2><strong>Goal:</strong></h2> 
-<ul> To analayze iOS vs. Android selling prices by scraping, "just sold" data from<a href="https://flippa.com/apps/just-sold" target="_blank"> flippa.com</a> (an online marketplace to buy/sell: apps, websites, and domains).</ul>
+<ul>Analayze iOS vs. Android selling prices by scraping, "just sold" data from<a href="https://flippa.com/apps/just-sold" target="_blank"> flippa.com</a> (an online marketplace to buy/sell: apps, websites, and domains).</ul>
   
   
 <h2><strong>Results:</strong></h2> 
-<ul>Overall, 121 more android apps were sold than iOS, however, the average iOS app sold for ~50% more ($513.00 vs. $254.98), and the most expensive iOS sold for $25,000.00 vs. android's $15,001.00. Additional unanswered questions:  How many android vs. iOS apps were listed, but went unsold, the average unique users per app, and the respective developer-hours required to build the apps.</ul>
+<ul>121 more android apps were sold than iOS, however, the average iOS app sold for ~50% more ($513.00 vs. $254.98), and the most expensive iOS sold for $25,000.00 vs. android's $15,001.00. Additional unanswered questions:  How many android vs. iOS apps were listed, but went unsold, the average unique users per app, and the respective developer-hours required to build the apps.</ul>
 
 <h2><strong>"Just Sold" Price Data (*as of 25/03/2017):</strong></h2>
 <table class="tg">
